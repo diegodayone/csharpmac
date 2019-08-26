@@ -7,6 +7,11 @@ namespace IntroToCSharp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Strive Class!");
+            Console.WriteLine("Hello Strive Class!");
+            Console.WriteLine("Hello Strive Class!");
+            Console.WriteLine("Hello Strive Class!");
+            Console.WriteLine("Hello Strive Class!");
+
         }
     }
 }
